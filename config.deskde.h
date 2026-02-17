@@ -1,3 +1,9 @@
+/*
+ * SPDX-License-Identifier: GPL-3.0-only
+ * Derived from config.deskintl.h in upstream wvkbd.
+ * Fork modification context: deskde German desktop layout set.
+ * Modified by Betim Bytyqi on 2026-02-17.
+ */
 #ifndef config_h_INCLUDED
 #define config_h_INCLUDED
 

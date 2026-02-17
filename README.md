@@ -1,5 +1,9 @@
 # wvkbd - On-screen keyboard for wlroots that sucks less
 
+## License and Compliance
+
+This fork keeps upstream licensing and attribution intact. See `LICENSE`, `COPYING`, and `COPYING_WESTON` for license scope, `NOTICE` for fork-level attribution and change notice, and `GPL-3.0-COMPLIANCE.md` for a distribution checklist.
+
 <img src="https://raw.githubusercontent.com/jjsullivan5196/wvkbd/master/contrib/wvkbd-mobintl.jpg" width=300 /> <img src="https://raw.githubusercontent.com/jjsullivan5196/wvkbd/master/contrib/wvkbd-mobintl-cyrillic.jpg" width=300 />
 
 This project aims to deliver a minimal but practically usable implementation of a wlroots on-screen

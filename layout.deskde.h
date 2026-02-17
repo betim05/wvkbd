@@ -1,3 +1,9 @@
+/*
+ * SPDX-License-Identifier: GPL-3.0-only
+ * Derived from layout.deskintl.h in upstream wvkbd.
+ * Fork modification context: deskde German desktop layer "de".
+ * Modified by Betim Bytyqi on 2026-02-17.
+ */
 /* constants */
 /* how tall the keyboard should be by default (can be overriden) */
 #define KBD_PIXEL_HEIGHT 400

@@ -1,3 +1,9 @@
+/*
+ * SPDX-License-Identifier: GPL-3.0-only
+ * Derived from keymap.deskintl.h in upstream wvkbd.
+ * Fork modification context: deskde German keymap symbols.
+ * Modified by Betim Bytyqi on 2026-02-17.
+ */
 #define NUMKEYMAPS 2
 
 static const char *keymap_names[] = {"latin", "cyrillic"};

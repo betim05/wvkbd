@@ -1,0 +1,28 @@
+Fork notice for betim05/wvkbd
+=============================
+
+This repository is a fork of:
+https://github.com/jjsullivan5196/wvkbd
+
+Upstream project attribution:
+- Copyright (c) 2020 John Sullivan <jsullivan@csumb.edu>
+- Current maintainers: Sxmo project
+
+Licensing:
+- Most code in this repository is licensed under GPL-3.0 as documented in
+  COPYING and LICENSE.
+- os-compatibility.c and os-compatibility.h are MIT/X licensed by the Wayland
+  project (see COPYING_WESTON and COPYING).
+
+Fork modifications (non-exhaustive, current branch):
+- Added deskde desktop layout set with German layer "de" for wvkbd.
+- Updated documentation for deskde usage.
+
+Fork modifier:
+- Betim Bytyqi <betimbytyqi86@gmail.com>
+
+Change date:
+- 2026-02-17
+
+This NOTICE file is provided to make attribution and license scope explicit for
+downstream users and redistributors.
