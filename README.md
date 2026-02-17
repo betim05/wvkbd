@@ -51,6 +51,8 @@ The other set of layouts is called `deskintl` *(desktop international)*, which g
 tablet devices with a larger touchscreen. The set is US-International English. Run `make LAYOUT=deskintl`. The resulting binary
 is called `wvkbd-deskintl`.
 
+`deskde` = desktop international with German layer `de`.
+
 You can, however, define your own layouts by copying and modifying `config.mobintl.h`, `layout.mobintl.h` and `keymap.mobintl.h`
 (replace `mobintl` for something like `yourlayout`), or `config.deskintl.h`, `layout.deskintl.h` and `keymap.deskintl.h`. Then
 make your layout set using `make LAYOUT=yourlayout`, and the resulting binary will be `wvkbd-yourlayout`.
